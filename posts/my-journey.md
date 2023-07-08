@@ -5,7 +5,7 @@ subtitle: "Sharing my full story and obstacles I overcame."
 author: "Jared G"
 ---
 
-## Life Before Software Engineering and Tech
+## Life Before Software Engineering and Tech🚚
 
 Life before software engineering and tech was confusing. I was 22 years old and working as a truck driver across the United States. I had no idea how I ended up there; just two years ago, I was on my way to completing my bachelor's in engineering and somehow ended up hauling 70,000 lbs in the middle of nowhere in Kansas at 2 AM. I remember being parked in an isolated gas station staring into the pitch black vast space of Kansas, contemplating my life, nearly freezing in the 5 degree weather.
 
@@ -17,7 +17,7 @@ Seeing my friends again was the best decision I've ever made. With them, I disco
 
 When I got home, I began researching various tech and engineering fields. That's when I stumbled upon software engineering, a field that many influencers said you could learn on your own. I saw several ads promising to make anyone a software engineer in just five months. Reading several success stories of self-taught and bootcamp-trained software engineers and web developers, I began to believe I could do it too. From that day on, I voyaged into the deepest darkest depths of web development and software engineering.
 
-## Making the Transition
+## Making the Transition📓📚
 
 I embarked on my self-taught journey on May 1, 2022. After conducting thorough research into the tech field and software engineering, I found a simple path that served as a great starting point. Like many self-taught web developers, I began with the basics: HTML and CSS. Understanding the connection between computers and software fueled my passion even more for software development.
 
@@ -42,7 +42,7 @@ Evenutally, my front-end development skills started to level up. I managed to bu
 
 [Mail Chimp Landing Page](https://calculuscoder.github.io/)
 
-## The Inevitable Rough Patch
+## The Inevitable Rough Patch🪖
 
 Around one to two months into my self-taught software engineering journey, I came across the dreaded inevitable rough patch/stage. At this point in my studies, I was diving deep into Javascript, React, and Node.js. I felt stuck, as if I was struggling to grasp any concept. Concepts that did stick would dissipate after a couple of days. My frustrations grew, but thankfully so did my determination.
 
@@ -50,13 +50,13 @@ This is the stage where many self-taught developers fail and throw in the towel.
 
 > The night is darkest just before the dawn
 
-## Losing Everything
+## Losing Everything⛈️
 
 Three to four months into my self-guided learning journey, my life took a dramatic turn. I came down with several severe anxiety disorders that changed the course of my life. I went from living my best life to losing everything overnight. Unfortunately, due to the severity of my condition, I had no choice but to give up my learning journey for six months.
 
 Those six months were undoubtedly the most challenging and worst of my life, as I was barely able to function. My days were filled with disappointment, depression, anguish, and a sense of hopelessness. I was afraid I'd never be able to continue my journey, seeing no light at the end of the tunnel. Just when I had made the greatest transition in my life, it was all stripped away from me.
 
-## Overcoming All Setbacks
+## Overcoming All Setbacks💪🏼
 
 After about seven months, I gradually began to get back into the swing of things. Despite occasionally feeling disoriented due to anxiety disorders, I persisted, driven by my main goal: landing my first job as a software engineer. This time around, I returned stronger and more prepared. I had more tools at my disposal to become a prominent engineer.
 
@@ -78,7 +78,7 @@ My skills leveled up and grew larger in the creation of my first major full-stac
 
 Once again, I found myself filled with hope and eagerness for what the future held. My passion for software engineering and web development was reignited and stronger than ever before.
 
-## Competing In An Oversaturated Market
+## Competing In An Oversaturated Market📉
 
 After overcoming numerous life setbacks, I now faced further obstacles on my path to success. I began applying for web developer and software engineer jobs around January 2023. It wasn't long before I realized the job market had shifted dramatically compared to when I sent out my first applications in August of 2022.
 
@@ -92,7 +92,7 @@ I even managed to land interviews with big companies like GitHub and Cigna, perf
 
 After four months of relentless job hunting, 500+ applications sent, more than 20 interviews, and endless hours studying useless material, I decided it was time to switch up my strategy.
 
-## Creating My Own Startup Company
+## Creating My Own Startup Company💡🚀
 
 I came into the software engineering field with a mindset focused primarily on speed and income: land a job as quickly as possible and boost my skills to secure a high-paying role. However, I overlooked a crucial aspect of this field: the skills you acquire are more valuable than the paycheck you earn.
 
@@ -108,7 +108,7 @@ And so, I got to work. Over the span of three months, I dedicated hundreds of ho
 
 Witnessing the growth of my own company, one built entirely from scratch, is one of the most satisfying experiences I've had. The effort poured into FreeMind was driven by passion, and I am profoundly grateful for the skills I acquired that allowed me to accomplish this.
 
-## Beating All The Odds
+## Beating All The Odds🙏🏼
 
 Perhaps you have an inner battle about pursuing a career in this field. Maybe you are overwhelmed with fear and several "what if" thoughts. The fact is this, it doesn't matter whether you're 16 or 46, a fast learner or a slow one, a college graduate or a high school dropout. Programming is a valuable skill that nearly anyone can learn, and it all comes down to your mindset and determination to achieve it.
 
@@ -122,6 +122,6 @@ Or perhaps Danny Thompson's story resonates more with you. Danny, a software eng
 
 No matter whose story you relate to, or even if you can't see your circumstances reflected in either, know this: a career transition is achievable. It requires determination, hard work, and patience, but is all within your grasp.
 
-## Final Thoughts
+## Final Thoughts💭
 
 To this day I have not been able to secure a job in the tech field, but am eternally grateful for the skill set I acquired on this journey. As I mentioned earlier, the skills you acquire are more valuable than the paycheck you earn. Keep learning, stay curious, and stay humble.
