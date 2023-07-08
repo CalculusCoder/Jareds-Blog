@@ -6,7 +6,7 @@ import Link from "next/link";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jared's Blog",
+  title: "Engineering Life",
   description: "Jared's Blog",
 };
 
@@ -22,10 +22,10 @@ export default function RootLayout({
           <div className="text-center bg-slate-800 text-white p-8 mt-6 mb-12 rounded-xl">
             <Link href={`/`}>
               <header className="text-3xl font-bold mb-3">
-                Jared&apos;s Blog
+                Engineering Life💻
               </header>
             </Link>
-            <p>👋 Welcome to my Software Engineering Blog 💻</p>
+            <p>Self-Taught Journeys in Software, Startups, and Robotics 🧑🏻‍💻🤖</p>
           </div>
         </div>
         {children}
